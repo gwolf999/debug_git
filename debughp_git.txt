@@ -1,5 +1,5 @@
-这是在hp电脑上设置的hp_test分支
-用的git branch hp_test
-然后 git checkout hp_test
+杩欐槸鍦╤p鐢佃剳涓婅缃殑hp_test鍒嗘敮
+鐢ㄧ殑git branch hp_test
+鐒跺悗 git checkout hp_test
 
-
+鍦╯erver绔殑hp_test淇敼鏂囦欢
