@@ -1,1 +1,4 @@
 first debug_git.txt
+ssh-keygen -C 'your@email.address' -t rsa  很重要的git上传到github的语句 在mbb上口令句为 99，用tortoiseGit push成功 上传公钥到github(能上传成功就是表示你已经输入了口令及密码)，本地配置文件则验证私钥，同时你输入口令句，防止他人使用。
+在git bash下不成功，估计用的ssh不对
+

@@ -1,2 +1,4 @@
 first debug_git.txt
 second debug_git.txt
+third debug_git.txt
+https://github.com/gwolf999/debug_git.git
